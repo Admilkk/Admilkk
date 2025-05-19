@@ -8,4 +8,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Admilkk&theme=tokyonight&locale=cn" alt="Admilk" height="150"/>
   </a>
 </div>
-<img src="https://raw.githubusercontent.com/Admilkk/Admilkk/refs/heads/output/github-contribution-grid-snake.svg" alt="Admilk" height="200" width="auto"/>
+<img src="https://raw.githubusercontent.com/Admilkk/Admilkk/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Admilk" height="200" width="auto"/>
