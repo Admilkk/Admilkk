@@ -5,7 +5,7 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admilkk&theme=tokyonight" alt="Admilk" height="150"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Admilkk&show_icons=true&theme=tokyonight&locale=cn&layout=compact" alt="Admilk" height="170"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-
+    <img src="https://github-profile-trophy.vercel.app/?username=Admilkk&theme=tokyonight&locale=cn" alt="Admilk" height="150"/>
   </a>
 </div>
 <img src="https://raw.githubusercontent.com/Admilkk/Admilkk/refs/heads/output/github-contribution-grid-snake.svg" alt="Admilk" height="200" width="auto"/>
