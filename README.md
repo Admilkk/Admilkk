@@ -8,4 +8,4 @@
 
   </a>
 </div>
-  <img src="https://raw.githubusercontent.com/Admilkk/Admilkk/refs/heads/output/github-contribution-grid-snake.svg" alt="Admilk" height="200" width="auto"/>
+<img src="https://raw.githubusercontent.com/Admilkk/Admilkk/refs/heads/output/github-contribution-grid-snake.svg" alt="Admilk" height="200" width="auto"/>
